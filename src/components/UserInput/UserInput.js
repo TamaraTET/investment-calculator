@@ -12,7 +12,7 @@ const UserInput = () => {
 
     const submitHandler = (event) => {
         event.preventDefault();
-        //...
+        //..
         console.log('SUBMIT');
     };
 
